@@ -9,6 +9,14 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+
+.blue {
+  background: #414c64;
+  height: 50px;
+  margin: 0px;
+}
+
+
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
@@ -107,7 +115,7 @@ h6 {
 # Navigation Menu
 --------------------------------------------------------------*/
 /**
-* Desktop Navigation 
+* Desktop Navigation
 */
 .navbar {
   padding: 0;
@@ -217,7 +225,7 @@ h6 {
 }
 
 /**
-* Mobile Navigation 
+* Mobile Navigation
 */
 .mobile-nav-toggle {
   color: #fff;
