@@ -10,7 +10,16 @@
 # General
 --------------------------------------------------------------*/
 
+.center-text {
+  text-align: center;
+}
 
+.asl {
+  width: 25%;
+  height: 25%;
+  display: block;
+  margin: auto;
+}
 
 .discoveries {
   width: 300px;
